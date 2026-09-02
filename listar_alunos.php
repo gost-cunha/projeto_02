@@ -15,7 +15,7 @@ if (listarAlunos($regFile)) {
 } else
     echo "Nenhuma lista de presença foi encontrada";
 
-echo "<br>";
+echo "<br>"; // Tralalelo Tralala + Tung Tung Da Silva
 
 ?>
 
