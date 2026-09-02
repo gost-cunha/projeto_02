@@ -17,14 +17,6 @@ if ($_SERVER['REQUEST_METHOD'] === "POST") {
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Gravar Chamada</title>
-    <style>
-        .botao1{
-            background-color: aqua;
-        }
-        .botao2{
-            background-color: pink;
-        }
-    </style>
 </head>
 
 <body>
